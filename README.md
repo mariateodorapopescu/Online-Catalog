@@ -1,7 +1,7 @@
 # Virtual Catalog 📚👩‍🎓
 
 ## About
-Welcome to the Virtual Catalog documentation for the Object-Oriented Programming project by Popescu Maria Teodora (322CC). This project encompasses approximately 20-24 Java files, including classes and interfaces. Each class resides in a separate file for ease of implementation.
+Welcome to the Virtual School Marks documentation for the Object-Oriented Programming project. This project encompasses approximately 20-24 Java files, including classes and interfaces. Each class resides in a separate file for ease of implementation.
 
 ## Journey Highlights
 - **Challenges Faced:** While not seemingly difficult, the project required meticulous attention, especially in designing the Memento pattern for Project Design and dealing with the complexities of the Visitor and Observer patterns, particularly in the Parent's File.
