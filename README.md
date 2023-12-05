@@ -1,4 +1,4 @@
-# Virtual Catalog 📚👩‍🎓
+# Virtual School Marks 📚👩‍🎓
 
 ## About
 Welcome to the Virtual School Marks documentation for the Object-Oriented Programming project. This project encompasses approximately 20-24 Java files, including classes and interfaces. Each class resides in a separate file for ease of implementation.
