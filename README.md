@@ -1,7 +1,7 @@
-# Virtual School Marks 📚👩‍🎓
+# Virtual School Marks Book
 
 ## About
-Welcome to the Virtual School Marks documentation for the Object-Oriented Programming project. This project encompasses approximately 20-24 Java files, including classes and interfaces. Each class resides in a separate file for ease of implementation.
+Virtual School Marks documentation for the Object-Oriented Programming project. This project encompasses approximately 20-24 Java files, including classes and interfaces. Each class resides in a separate file for ease of implementation.
 
 ## Journey Highlights
 - **Challenges Faced:** While not seemingly difficult, the project required meticulous attention, especially in designing the Memento pattern for Project Design and dealing with the complexities of the Visitor and Observer patterns, particularly in the Parent's File.
@@ -31,5 +31,3 @@ Welcome to the Virtual School Marks documentation for the Object-Oriented Progra
 ## Additional Notes
 - **Input Handling:** Provides feedback on the console during validation, with messages like "In the process of validation..." or "Validation successfully completed!".
 - **Data Sources:** Inspiration for input data is drawn from real-life scenarios, creating a rich test environment.
-
-Happy exploring through the Virtual Catalog! 🚀📊 #JavaProgramming #ObjectOriented #DesignPatterns
